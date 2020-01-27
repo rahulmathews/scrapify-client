@@ -1,3 +1,4 @@
 1)Add a testing library most preferably jest or ava
 2)Add travis to configure the builds
 3)Add prettier and babel configs
+4)Add eslint or any linting lib
