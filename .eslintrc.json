@@ -7,6 +7,12 @@
     "plugins": ["prettier"],
     "rules": {
         "no-console": "warn",
-        "prettier/prettier": ["error"]
+        "prettier/prettier": ["error"],
+        "no-alert": "warn",
+        "no-undefined": "error",
+        "no-var": "error",
+        "dot-notation": "warn",
+        "no-unneeded-ternary": 2,
+        "no-unused-expressions": 2
     }
 }

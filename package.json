@@ -25,8 +25,7 @@
     },
     "lint-staged": {
         "*.js": [
-            "npm run format",
-            "git add"
+            "npm run format"
         ]
     },
     "eslintConfig": {
