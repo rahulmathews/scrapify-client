@@ -1,3 +1,5 @@
+[![license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/rahulmathews/scrapify-client/blob/master/LICENSE)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
